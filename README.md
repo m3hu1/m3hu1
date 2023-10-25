@@ -14,7 +14,9 @@ When I'm not coding, you can find me immersing myself in the world of chess, or 
 </div>
 <br><br>
 
-# Skills
+<div>
+  <h1>Skills</h1>
+</div>
 
 | Category        | Skills        |
 |-----------------|---------------|
