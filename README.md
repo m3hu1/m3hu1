@@ -5,7 +5,7 @@ Hi, I'm Mehul!<img src="https://user-images.githubusercontent.com/74038190/24176
 <div><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20px"/> I'm a developer hailing from India.</div>
 <br><br>
 <div><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20px"/>
-I'm pursuing a Bachelor of Technology with a degree in Computer Science.
+I'm pursuing a Bachelor of Technology degree in Computer Science.
 </div>
 <br><br>
 <div>
