@@ -10,7 +10,7 @@ I'm pursuing a Bachelor of Technology degree in Computer Science.
 <br><br>
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20px"/>
-When I'm not coding, you can find me immersing myself in the world of chess, or trying to learn new stuff on the internet.
+When I'm not coding, you can find me typing, immersing myself in the world of chess, or trying to learn new stuff on the internet.
 </div>
 <br><br>
 
