@@ -30,3 +30,8 @@ When I'm not coding, you can find me typing, immersing myself in the world of ch
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor="/> <img src="https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify&logoColor="/> <img src="https://img.shields.io/badge/Heroku-20232A?style=for-the-badge&logo=heroku&logoColor="/>
 
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake.svg">
+</picture>
