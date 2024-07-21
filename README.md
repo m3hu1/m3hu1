@@ -12,7 +12,8 @@ const aboutMe = {
     bio: "A developer who loves to learn new technologies and is always striving to expand and share knowledge.",
     profiles: {
         leetcode: "https://leetcode.com/pathakkmehul/",
-        monkeytype: "https://monkeytype.com/profile/m3hul"
+        monkeytype: "https://monkeytype.com/profile/m3hul",
+        spotify: "https://open.spotify.com/user/31e5bmn6fznlxfsemrpuptbo5xva?si=96648036465a4ce3"
     },
     social: {
         linkedin: "https://linkedin.com/in/pathakmehul",
