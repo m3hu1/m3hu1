@@ -23,11 +23,12 @@ const aboutMe = {
         steam: "https://steamcommunity.com/id/meuru/"
     },
 
-    social: {
+    socials: {
         linkedin: "https://linkedin.com/in/pathakmehul",
         twitter: "https://x.com/pathakkmehul",
         discord: "meurudesu",
-        email: "pathakkmehul@gmail.com"
+        primary_email: "pathakkmehul@gmail.com",
+        secondary_email: "mehulpathakk@gmail.com"
     }
 };
 
