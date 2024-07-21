@@ -5,17 +5,24 @@ Hi, I'm Mehul! <img src="https://user-images.githubusercontent.com/74038190/2417
 
 ```javascript
 const aboutMe = {
+
     name: "Mehul Pathak",
+
     location: "Uttar Pradesh, India",
+
     education: "Bachelor of Technology in Computer Science",
+
     interests: ["Competitive Programming", "Cybersecurity", "Coding", "Gaming", "Typing", "Chess"],
+
     bio: "A developer who loves to learn new technologies and is always striving to expand and share knowledge.",
+
     profiles: {
         leetcode: "https://leetcode.com/pathakkmehul/",
         monkeytype: "https://monkeytype.com/profile/m3hul",
         spotify: "https://open.spotify.com/user/31e5bmn6fznlxfsemrpuptbo5xva?si=96648036465a4ce3",
         steam: "https://steamcommunity.com/id/meuru/"
     },
+
     social: {
         linkedin: "https://linkedin.com/in/pathakmehul",
         twitter: "https://x.com/pathakkmehul",
