@@ -37,7 +37,7 @@ const aboutMe = {
 > [!NOTE]
 > <details>
 > <summary>Expand this to view my LeetCode stats</summary>
-> <img src="https://leetcard.jacoblin.cool/pathakkmehul?theme=nord&font=Inter&ext=heatmap" alt="LeetCode Stats">
+> <img src="https://leetcard.jacoblin.cool/pathakkmehul?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats">
 > <br>
 > </details>
 
