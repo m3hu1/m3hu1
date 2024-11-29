@@ -3,6 +3,8 @@
 <code>i am a developer with interests in competitive programming, open source, full stack development, and cybersecurity.</code><br>
 <code>also, i can type pretty fast.</code><br>
 
+<code>currently building: [Algorithmik](https://algorithmik.in)</code>
+
 ![](https://komarev.com/ghpvc/?username=m3hu1&base=1000&color=ED8796)<br>
 
 > [!IMPORTANT]
