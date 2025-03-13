@@ -3,8 +3,6 @@
 <code>i am a developer with interests in competitive programming, open source, full stack development, and cybersecurity.</code><br>
 <code>also, i can type pretty fast.</code><br>
 
-<code>currently building: [Algorithmik](https://algorithmik.in)</code>
-
 ![](https://komarev.com/ghpvc/?username=m3hu1&base=1000&color=ED8796)<br>
 
 > [!IMPORTANT]
@@ -12,8 +10,8 @@
 > <code>➜ secondary email: [mehulpathakk@gmail.com](mailto:mehulpathakk@gmail.com)</code><br><br>
 > <code>➜ my portfolio website: [mehulpathak.com](https://mehulpathak.com)</code><br>
 > <code>➜ my blog: [mehulpathak.com/blog](https://mehulpathak.com/blog)</code><br><br>
-> <code>➜ my leetcode profile (primary; problems solved: 1000+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)</code><br>
-> <code>➜ my leetcode profile (contests; peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)</code><br>
+> <code>➜ my leetcode profile (primary; problems solved: 1100+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)</code><br>
+> <code>➜ my leetcode profile (contests; current rating: 2243, peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)</code><br>
 
 > [!NOTE]
 > <code>➜ linkedin: [pathakmehul](https://linkedin.com/in/pathakmehul)</code><br>
