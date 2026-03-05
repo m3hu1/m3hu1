@@ -8,8 +8,8 @@
 > [!IMPORTANT]
 > <code>➜ primary email: [pathakkmehul@gmail.com](mailto:pathakkmehul@gmail.com)</code><br>
 > <code>➜ secondary email: [mehulpathakk@gmail.com](mailto:mehulpathakk@gmail.com)</code><br><br>
-> <code>➜ my portfolio website: [mehulpathak.com](https://mehulpathak.com)</code><br>
-> <code>➜ my blog: [mehulpathak.com/blog](https://mehulpathak.com/blog)</code><br><br>
+> <code>➜ my portfolio website: [mehulpathak-alt.vercel.app](https://mehulpathak-alt.vercel.app)</code><br>
+> <code>➜ my blog: [mehulpathak-alt.vercel.app/blog](https://mehulpathak-alt.vercel.app/blog)</code><br><br>
 > <code>➜ my leetcode profile (primary; problems solved: 1100+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)</code><br>
 > <code>➜ my leetcode profile (contests; current rating: 2243, peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)</code><br>
 
