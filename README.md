@@ -1,5 +1,5 @@
 <code>hi, i'm mehul.</code><br>
-<code>pre-final year university student</code><br><br>
+<code>final year university student</code><br><br>
 <code>i am a developer with interests in competitive programming, open source, full stack development, and cybersecurity.</code><br>
 <code>also, i can type pretty fast.</code><br>
 
@@ -8,8 +8,8 @@
 > [!IMPORTANT]
 > <code>➜ primary email: [pathakkmehul@gmail.com](mailto:pathakkmehul@gmail.com)</code><br>
 > <code>➜ secondary email: [mehulpathakk@gmail.com](mailto:mehulpathakk@gmail.com)</code><br><br>
-> <code>➜ my portfolio website: [mehulpathak-alt.vercel.app](https://mehulpathak-alt.vercel.app)</code><br>
-> <code>➜ my blog: [mehulpathak-alt.vercel.app/blog](https://mehulpathak-alt.vercel.app/blog)</code><br><br>
+> <code>➜ my portfolio website: [mehulpathak.vercel.app](https://mehulpathak.vercel.app)</code><br>
+> <code>➜ my blog: [mehulpathak.vercel.app/blog](https://mehulpathak.vercel.app/blog)</code><br><br>
 > <code>➜ my leetcode profile (primary; problems solved: 1100+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)</code><br>
 > <code>➜ my leetcode profile (contests; current rating: 2243, peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)</code><br>
 
