@@ -13,10 +13,6 @@
 > <code>➜ my leetcode profile (primary; problems solved: 1100+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)</code><br>
 > <code>➜ my leetcode profile (contests; current rating: 2243, peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)</code><br>
 
-> [!NOTE]
-> <code>➜ linkedin: [pathakmehul](https://linkedin.com/in/pathakmehul)</code><br>
-> <code>➜ twitter: [pathakkmehul](https://x.com/pathakkmehul)</code><br>
-
 <details>
 <summary><code>expand this to view my leetcode stats</code></summary><br>
 <img src="https://leetcard.jacoblin.cool/pathakkmehul?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"><br><img src="https://leetcard.jacoblin.cool/p4n1c?theme=nord&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats">
