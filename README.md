@@ -1,6 +1,6 @@
 <code>hi, i'm mehul.</code><br>
-<code>final year university student</code><br><br>
-<code>i am a developer with interests in competitive programming, open source, full stack development, and cybersecurity.</code><br>
+<br>
+<code>~~i am a developer with interests in competitive programming, open source, full stack development, and cybersecurity.~~</code><br>
 <code>also, i can type pretty fast.</code><br>
 
 ![](https://komarev.com/ghpvc/?username=m3hu1&base=1000&color=ED8796)<br>
@@ -8,18 +8,14 @@
 > [!IMPORTANT]
 > <code>➜ primary email: [pathakkmehul@gmail.com](mailto:pathakkmehul@gmail.com)</code><br>
 > <code>➜ secondary email: [mehulpathakk@gmail.com](mailto:mehulpathakk@gmail.com)</code><br><br>
-> <code>➜ my portfolio website: [mehulpathak.vercel.app](https://mehulpathak.vercel.app)</code><br>
-> <code>➜ my blog: [mehulpathak.vercel.app/blog](https://mehulpathak.vercel.app/blog)</code><br><br>
+> <code>➜ ~~my portfolio website: [mehulpathak.vercel.app](https://mehulpathak.vercel.app)~~</code><br>
+> <code>➜ ~~my blog: [mehulpathak.vercel.app/blog](https://mehulpathak.vercel.app/blog)~~</code><br><br>
 > <code>➜ my leetcode profile (primary; problems solved: 1100+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)</code><br>
 > <code>➜ my leetcode profile (contests; current rating: 2243, peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)</code><br>
 
 > [!NOTE]
 > <code>➜ linkedin: [pathakmehul](https://linkedin.com/in/pathakmehul)</code><br>
-> <code>➜ twitter: [pathakkmehul](https://x.com/pathakkmehul)</code><br><br>
-> <code>➜ spotify: [mehul](https://open.spotify.com/user/31e5bmn6fznlxfsemrpuptbo5xva?si=76f63b9bcc514768)</code><br>
-> <code>➜ monkeytype: [m3hu1](https://monkeytype.com/profile/m3hul)</code><br><br>
-> <code>➜ discord: [meurudesu](https://discord.com/users/294407821896974337)</code><br>
-> <code>➜ steam: [meuru](https://steamcommunity.com/id/meuru/)</code><br>
+> <code>➜ twitter: [pathakkmehul](https://x.com/pathakkmehul)</code><br>
 
 <details>
 <summary><code>expand this to view my leetcode stats</code></summary><br>
