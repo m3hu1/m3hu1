@@ -1,17 +1,17 @@
-<code>hi, i'm mehul.</code><br>
+<code>hi, i'm [mehul](https://mehulpathak.page).</code><br>
 <br>
 <code>~~i am a developer with interests in competitive programming, open source, full stack development, and cybersecurity.~~</code><br>
 <code>also, i can type pretty fast.</code><br>
 
 ![](https://komarev.com/ghpvc/?username=m3hu1&base=1000&color=ED8796)<br>
 
-> [!IMPORTANT]
+> [!NOTE]
 > <code>➜ primary email: [pathakkmehul@gmail.com](mailto:pathakkmehul@gmail.com)</code><br>
 > <code>➜ secondary email: [mehulpathakk@gmail.com](mailto:mehulpathakk@gmail.com)</code><br><br>
-> <code>➜ ~~my portfolio website: [mehulpathak.vercel.app](https://mehulpathak.vercel.app)~~</code><br>
-> <code>➜ ~~my blog: [mehulpathak.vercel.app/blog](https://mehulpathak.vercel.app/blog)~~</code><br><br>
-> <code>➜ my leetcode profile (primary; problems solved: 1100+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)</code><br>
-> <code>➜ my leetcode profile (contests; current rating: 2243, peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)</code><br>
+> <code>➜ my personal website: [mehulpathak.page](https://mehulpathak.page)</code><br>
+> <code>➜ my blog: [blog.mehulpathak.page](https://blog.mehulpathak.page)</code><br><br>
+> <code>~~➜ my leetcode profile (primary; problems solved: 1100+): [pathakkmehul](https://leetcode.com/u/pathakkmehul)~~</code><br>
+> <code>~~➜ my leetcode profile (contests; current rating: 2243, peak rating: 2284): [p4n1c](https://leetcode.com/u/p4n1c)~~</code><br>
 
 <details>
 <summary><code>expand this to view my leetcode stats</code></summary><br>
